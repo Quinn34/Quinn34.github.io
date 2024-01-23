@@ -443,10 +443,10 @@ margin-right: auto;
     margin-right: auto;
 }
 
-@media only screen and (max-width: 391px) {
+@media only screen and (max-width: 500px) {
     .left-space {
         height: 100%;
-        width: 100px;
+        width: 28%;
     }
     .row{
         width: 390px;
@@ -461,12 +461,12 @@ margin-right: auto;
         margin-left: -10px;
     }
     .right-space {
-        width: 90px;
+        width: 25%;
         height: 100px;
     }
     .mid-space{
         height: 100%;
-        width: 200px;
+        width: 47%;
     }
     .home-buttons{
         height: 100px;
