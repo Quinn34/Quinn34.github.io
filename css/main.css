@@ -612,6 +612,7 @@ margin-right: auto;
         color: black;
         font-weight: 520;
         align-items: center;
+        margin-left: 20px;
     }
     .right-50 {
         height: 200px;
